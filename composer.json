@@ -1,0 +1,15 @@
+{
+    "name": "brainmm09/mvc_framework",
+    "authors": [
+        {
+            "name": "Thar Htoo",
+            "email": "tharhtoo@brain-inter.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
